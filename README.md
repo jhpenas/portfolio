@@ -8,7 +8,7 @@
 
 ## Projetos:
 ### Curso de Introdução à Inteligência Artificial com Python. Harvard University
-* **Projeto Degrees** 
+* [Projeto Degrees](https://github.com/jhpenas/degrees/blob/master/degrees.ipynb)
 
 ---
 
