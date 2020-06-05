@@ -1,6 +1,7 @@
 # Juan Rodrigo Harbar Penas
 <sub>Estudante de Engenharia Química na Universidade Federal do Paraná</sub>
 
+<sub>*Página em construção*</sub>
 
 [LinkedIn](https://www.linkedin.com/in/juan-rodrigo-harbar-penas-296321129/)
 
