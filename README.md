@@ -10,6 +10,8 @@
 ### Curso de Introdução à Inteligência Artificial com Python. Harvard University
 * [Projeto Degrees](https://github.com/jhpenas/degrees/blob/master/degrees.ipynb)
 
+### Hackathon CCR
+* [Projeto RODAS](https://github.com/jhpenas/RodasHackathonCCR/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
 ---
 
 
