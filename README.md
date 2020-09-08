@@ -4,9 +4,9 @@
 [LinkedIn](https://www.linkedin.com/in/juan-rodrigo-harbar-penas-296321129/)
 
 ---
-
-## Projetos:
 <sub>*Página em construção*</sub>
+## Projetos:
+
 ### Inteligência Artificial e Machine Learning
 * [Projeto Degrees](https://github.com/jhpenas/degrees/blob/master/degrees.ipynb)
 
