@@ -7,13 +7,14 @@
 
 ## Projetos:
 <sub>*Página em construção*</sub>
-### Curso de Introdução à Inteligência Artificial com Python. Harvard University
+### Inteligência Artificial e Machine Learning
 * [Projeto Degrees](https://github.com/jhpenas/degrees/blob/master/degrees.ipynb)
 
-### Hackathon CCR
+### Aplicativos com Python e Kivy
 * [Projeto RODAS](https://github.com/jhpenas/RodasHackathonCCR/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
 ---
-
+### DashBoards e Machine Learning
+* [Projeto TAGalera](https://github.com/jhpenas/dashboard-megahack3/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=E8EyqLHNyJU)
 
 
 
