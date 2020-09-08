@@ -3,7 +3,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/juan-rodrigo-harbar-penas-296321129/)
 
-
+---
 
 ## Projetos:
 <sub>*Página em construção*</sub>
@@ -12,9 +12,9 @@
 
 ### Aplicativos com Python e Kivy
 * [Projeto RODAS](https://github.com/jhpenas/RodasHackathonCCR/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
----
+
 ### DashBoards e Machine Learning
 * [Projeto TAGalera](https://github.com/jhpenas/dashboard-megahack3/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=E8EyqLHNyJU)
 
 
-
+---
