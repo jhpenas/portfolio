@@ -11,10 +11,10 @@
 * [Saurian Soccer Simulator (CS50 Final Project)](https://github.com/jhpenas/saurianSoccerSimulator)
 
 ### Mobile Apps (Kivy)
-* [RODAS Project](https://github.com/jhpenas/RodasHackathonCCR/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
+* [RODAS App](https://github.com/jhpenas/RodasHackathonCCR/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
 
 ### Smart Dashboards
-* [Projeto TAGalera](https://github.com/jhpenas/dashboard-megahack3/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=E8EyqLHNyJU)
+* [TAGalera](https://github.com/jhpenas/dashboard-megahack3/blob/master/README.md), [Presentation (Portuguese)](https://www.youtube.com/watch?v=E8EyqLHNyJU)
 
 
 ---
