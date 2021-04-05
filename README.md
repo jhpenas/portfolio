@@ -5,7 +5,7 @@
 
 ---
 <sub>*Under construction*</sub>
-## Projetos:
+## Projects:
 
 ### IA, Machine Learning and Data Science
 * [Saurian Soccer Simulator (CS50 Final Project)](https://github.com/jhpenas/saurianSoccerSimulator)
