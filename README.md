@@ -1,19 +1,19 @@
 # Juan Rodrigo Harbar Penas
 <sub>Estudante de Engenharia Química na Universidade Federal do Paraná</sub>
 
-[LinkedIn](https://www.linkedin.com/in/juan-rodrigo-harbar-penas-296321129/)
+[LinkedIn](https://www.linkedin.com/in/jhpenas/)
 
 ---
-<sub>*Página em construção*</sub>
+<sub>*Under construction*</sub>
 ## Projetos:
 
-### Inteligência Artificial e Machine Learning
-* [Projeto Degrees](https://github.com/jhpenas/degrees/blob/master/degrees.ipynb)
+### IA, Machine Learning and Data Science
+* [Saurian Soccer Simulator (CS50 Final Project)](https://github.com/jhpenas/saurianSoccerSimulator)
 
-### Aplicativos com Python e Kivy
-* [Projeto RODAS](https://github.com/jhpenas/RodasHackathonCCR/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
+### Mobile Apps (Kivy)
+* [RODAS Project](https://github.com/jhpenas/RodasHackathonCCR/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
 
-### DashBoards e Machine Learning
+### Smart Dashboards
 * [Projeto TAGalera](https://github.com/jhpenas/dashboard-megahack3/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=E8EyqLHNyJU)
 
 
