@@ -8,13 +8,13 @@
 ## Projects:
 
 ### IA, Machine Learning and Data Science
-* [Saurian Soccer Simulator (CS50 Final Project)](https://github.com/jhpenas/saurianSoccerSimulator)
+* [Saurian Soccer Simulator (CS50 Final Project)](https://github.com/jhpenas/saurianSoccerSimulator) (Flask Application)
 
-### Mobile Apps (Kivy)
-* [RODAS App](https://github.com/jhpenas/RodasHackathonCCR/blob/master/README.md), [Apresentação](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
+### Mobile Apps
+* [RODAS App](https://github.com/jhpenas/RodasHackathonCCR/blob/master/README.md) (Kivy), [Apresentação](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
 
 ### Smart Dashboards
-* [TAGalera](https://github.com/jhpenas/dashboard-megahack3/blob/master/README.md), [Presentation (Portuguese)](https://www.youtube.com/watch?v=E8EyqLHNyJU)
+* [TAGalera](https://github.com/jhpenas/dashboard-megahack3/blob/master/README.md)(Streamlit), [Presentation (Portuguese)](https://www.youtube.com/watch?v=E8EyqLHNyJU)
 
 
 ---
