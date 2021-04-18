@@ -1,4 +1,4 @@
- ![](capa Juan.png)
+ ![](capa.png)
 # Juan Rodrigo Harbar Penas
 <sub>Chemical Engineering Student at UFPR</sub>
 
