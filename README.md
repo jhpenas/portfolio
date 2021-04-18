@@ -1,11 +1,14 @@
- ![](capa.png)
-# Juan Rodrigo Harbar Penas
+ <p align="center">
+  <img src="capa.png" width=2000>
+</p>
+
+
+
 <sub>Chemical Engineering Student at UFPR</sub>
 
 [LinkedIn](https://www.linkedin.com/in/jhpenas/)
 
 ---
-<sub>*Under construction*</sub>
 ## Projects:
 
 ### IA, Machine Learning and Data Science
