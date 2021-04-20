@@ -11,7 +11,7 @@
 ---
 ## Projects:
 
-### IA, Machine Learning and Data Science
+### AI, Machine Learning and Data Science
 * [Saurian Soccer Simulator (CS50 Final Project)](https://github.com/jhpenas/saurianSoccerSimulator) (Flask)
 
 ### Mobile Apps
