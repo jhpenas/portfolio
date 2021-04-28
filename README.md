@@ -13,7 +13,7 @@
 ---
 ## Projects:  
 ### AI, Machine Learning and Data Science
-* [Saurian Soccer Simulator — CS50 Final Project](https://github.com/jhpenas/saurianSoccerSimulator) (Flask), [Video (English)](https://www.youtube.com)
+* [Saurian Soccer Simulator — CS50 Final Project](https://github.com/jhpenas/saurianSoccerSimulator) (Flask), [Video (English)](https://www.youtube.com/watch?v=7lDYlgxDh6Y)
 
 ### Smart Dashboards
 * [TAGalera](https://github.com/jhpenas/dashboard-megahack3) (Streamlit), [Video (Portuguese)](https://www.youtube.com/watch?v=E8EyqLHNyJU)
