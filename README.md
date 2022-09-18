@@ -12,18 +12,13 @@
 
 ---
 ## Projects:  
-### Machine Learning and Data Science
-#### Full Aplications
-* [Saurian Soccer Simulator — CS50 Final Project](https://github.com/jhpenas/saurianSoccerSimulator) (Flask), [Video (English)](https://www.youtube.com/watch?v=7lDYlgxDh6Y)
-
-[comment]: <> (#### Notebooks and analysis) 
-
-### Smart Dashboards
-* [TAGalera](https://github.com/jhpenas/dashboard-megahack3) (Streamlit), [Video (Portuguese)](https://www.youtube.com/watch?v=E8EyqLHNyJU)
+### Notebooks and Analysis
 
 
-### Mobile Apps
-* [RODAS App](https://github.com/jhpenas/RodasHackathonCCR) (Kivy), [Video (Portuguese)](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
+### Applications
+* [Saurian Soccer Simulator — CS50 Final Project](https://github.com/jhpenas/saurianSoccerSimulator) (Web), [Video (English)](https://www.youtube.com/watch?v=7lDYlgxDh6Y)
+* [TAGalera](https://github.com/jhpenas/dashboard-megahack3) (Web), [Video (Portuguese)](https://www.youtube.com/watch?v=E8EyqLHNyJU)
+* [RODAS App](https://github.com/jhpenas/RodasHackathonCCR) (Web and Mobile), [Video (Portuguese)](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
 
 
 
