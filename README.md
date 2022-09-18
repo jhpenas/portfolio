@@ -16,7 +16,7 @@
 
 
 ### Applications
-* [Saurian Soccer Simulator — CS50 Final Project](https://github.com/jhpenas/saurianSoccerSimulator) (Web), [Video (English)](https://www.youtube.com/watch?v=7lDYlgxDh6Y)
+* [Saurian Soccer Simulator — CS50x Final Project](https://github.com/jhpenas/saurianSoccerSimulator) (Web), [Video (English)](https://www.youtube.com/watch?v=7lDYlgxDh6Y)
 * [TAGalera](https://github.com/jhpenas/dashboard-megahack3) (Web), [Video (Portuguese)](https://www.youtube.com/watch?v=E8EyqLHNyJU)
 * [RODAS App](https://github.com/jhpenas/RodasHackathonCCR) (Web and Mobile), [Video (Portuguese)](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
 
