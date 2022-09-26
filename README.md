@@ -12,7 +12,7 @@
 
 ---
 ## Projects:  
-### Notebooks and Analysis
+[comment]: <> (### Notebooks and Analysis)
 
 
 ### Applications
