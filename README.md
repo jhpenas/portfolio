@@ -6,7 +6,7 @@
 
 
 
-<sub>Chemical Engineering Student at UFPR</sub>
+<sub>Machine Learning enthusiast</sub>
 
 [LinkedIn](https://www.linkedin.com/in/jhpenas/)   
 
@@ -16,11 +16,19 @@
 
 
 ### Applications
-* [Saurian Soccer Simulator — CS50x Final Project](https://github.com/jhpenas/saurianSoccerSimulator) (Web), [Video (English)](https://www.youtube.com/watch?v=7lDYlgxDh6Y)
-* [TAGalera](https://github.com/jhpenas/dashboard-megahack3) (Web), [Video (Portuguese)](https://www.youtube.com/watch?v=E8EyqLHNyJU)
-* [RODAS](https://github.com/jhpenas/RodasHackathonCCR) (Web and Mobile), [Video (Portuguese)](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
+* [Saurian Soccer Simulator](https://github.com/jhpenas/saurianSoccerSimulator) 
+     * [CS50x Final Project](https://cs50.harvard.edu/x/2022/)
+     * Web application made with Flask, CSS and HTML, with Machine Learning CatBoost Regressor Library to predict results for soccer matches and show some statistics.
+     * [Video (English)](https://www.youtube.com/watch?v=7lDYlgxDh6Y)
+* [RODAS](https://github.com/jhpenas/RodasHackathonCCR) 
+     * Web and Mobile application for the CCR's Hackathon challenge aiming to improve the quality of life of Truck Drivers.
+     * TOP 10 Project of [CCR's Hackathon](https://www.youtube.com/watch?v=nSt_r_k9FBY)
+     * [Video Pitch (Portuguese)](https://www.youtube.com/watch?v=Nlq4Cp8vDIk&feature=youtu.be)
 
-
+### Dashboards
+* [TAGalera](https://github.com/jhpenas/dashboard-megahack3)
+     * Application developed with Streamlit to present and process the data collected through the TAGalera application for the Hackathon Megahack3 in the Ambev challenge.
+     * [Demonstration (Portuguese)](https://www.youtube.com/watch?v=E8EyqLHNyJU)
 
 
 ---
