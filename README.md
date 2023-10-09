@@ -21,6 +21,10 @@
      * Application utilizing YOLO v8 developed for detection of chickens in video footage.
 
 ### Applications
+* [**AnderWorm**](https://github.com/falatfernando/AnderWorm) 
+     * [NASA Space Apps 2023 Challenge](https://www.spaceappschallenge.org/)
+     * Web application made with Streamlit creating a digital twin of the C. elegans worm, offering a simulation of its behavior and genetics.
+     * [Video (English)](https://www.youtube.com/watch?v=DCz03aMFNx8)
 * [**Saurian Soccer Simulator**](https://github.com/jhpenas/saurianSoccerSimulator) 
      * [CS50x Final Project](https://cs50.harvard.edu/x/2022/)
      * Web application made with Flask, CSS and HTML, with Machine Learning CatBoost Regressor Library to predict results for soccer matches and show some statistics.
